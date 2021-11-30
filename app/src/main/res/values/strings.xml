@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="tambah_buku">TAMBAH BUKU</string>
+
+    <string name="nomer_buku">Nomer Buku :</string>
+
+
+    <string name="input_nama_penerbit">input nama penerbit</string>
+    <string name="input_nomor">input nomor</string>
+    <string name="judul_buku">Judul Buku :</string>
+    <string name="input_judul">input judul</string>
+    <string name="tanggal_terbit">Tanggal Terbit :</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="penulis">Penulis :</string>
+    <string name="input_nama_penulis">Input nama penulis</string>
+    <string name="penerbit">Penerbit :</string>
+
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="kembali">Kembali</string>
+</resources>

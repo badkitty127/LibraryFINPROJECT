@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753117530772",
+    "project_id": "papbc-5e69a",
+    "storage_bucket": "papbc-5e69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753117530772:android:c63d9aa9fafd54f1678281",
+        "android_client_info": {
+          "package_name": "id.ac.ub.library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753117530772-ikmj7fg9dvpd74ic3kciruocr8ftcovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQWfuBrHRxZvRdw7Rjk2b1dMXKWdAc0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753117530772-ikmj7fg9dvpd74ic3kciruocr8ftcovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
